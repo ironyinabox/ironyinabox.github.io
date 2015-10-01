@@ -2123,10 +2123,10 @@
 	}
 
 	.skill-list {
-		margin: auto;
+		margin: sinherit;
 		width: 700px;
 	}
-	.skill-list > li {
+	.skill-badge {
 		margin: 5px;
 		width: 120px;
 		float: left;
