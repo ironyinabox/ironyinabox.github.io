@@ -1617,7 +1617,7 @@
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #fff;
+			background-color: currentColor;
 		}
 
 		.wrapper.style2 {
