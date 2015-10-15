@@ -1,3 +1,6 @@
 [submodule "Snake"]
 	path = Snake
 	url = https://github.com/ironyinabox/Snake.git
+[submodule "MissionSI"]
+	path = MissionSI
+	url = https://github.com/ironyinabox/MissionSI.git
